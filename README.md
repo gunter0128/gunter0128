@@ -3,7 +3,7 @@
 
 🎓 Graduate Student in Information Management @ National Taiwan University 
 
-🎓 Bachelor's Degree in Business Administration @ National Chung Cheng University 
+🎓 Bachelor's Degree in Information Management @ National Chung Cheng University 
 
 💡 Software & AI Engineer with experience in full-stack development, data systems, and applied machine learning.  
 
