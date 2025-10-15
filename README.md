@@ -37,7 +37,7 @@
 
 ##  Tech Stack
 
-**Languages:** Python, JavaScript, HTML, SQL  
+**Languages:** Python, Java, C++, JavaScript, HTML, SQL  
 **Frameworks & Tools:** PyTorch, FastAPI, Flask, Docker, QGIS, Pandas, NumPy  
 **ML/DL Skills:** Model training & tuning, dataset preprocessing, explainable AI  
 **System Skills:** REST API design, containerization, data visualization, GIS automation  
