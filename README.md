@@ -50,10 +50,7 @@ I also serve as a **Python TA** at NTU, focusing on helping students build solid
 
 ## 📫 Connect with Me
 
-📧 [Email](mailto:your_email@example.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/yourname/)  
-🌐 [Kaggle](https://www.kaggle.com/yourname)
-
+📧 [Email](mailto:vincent12896@gmail.com)  
 ---
 
 ⭐ *Explore my repositories below to see hands-on projects combining AI, system integration, and data-driven applications.*
