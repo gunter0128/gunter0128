@@ -1,16 +1,16 @@
 
-# 👋 Hi, I'm Che Chun Chou (gunter0128)
+# Hi, I'm Che Chun Chou (gunter0128)
 
-🎓 Graduate Student in Information Management @ National Taiwan University
+🎓 Graduate Student in Information Management @ National Taiwan University 
 🎓 Bachelor's Degree in Business Administration @ National Chung Cheng University 
 💡 Aspiring Software & AI Engineer with experience in full-stack development, data systems, and applied machine learning.  
 🔧 Skilled in building scalable applications, intelligent data workflows, and practical AI/ML solutions.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 💻 **Engineering & Systems**
+###  **Engineering & Systems**
 | Project | Description |
 |----------|--------------|
 | [**ITRI-intern-RTLcoder**](https://github.com/gunter0128/ITRI-intern-RTLcoder) | 🧠 LLM-based Verilog code generation & evaluation system improving RTL accuracy via structured testing |
@@ -20,7 +20,7 @@
 
 ---
 
-### 🧠 **AI / Machine Learning**
+###  **AI / Machine Learning**
 | Project | Description |
 |----------|--------------|
 | [**Deep-learning**](https://github.com/gunter0128/Deep-learning) | 🤖 Neural network architectures, model training, and generative models applications |
@@ -31,7 +31,7 @@
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 **Languages:** Python, JavaScript, HTML, SQL  
 **Frameworks & Tools:** PyTorch, FastAPI, Flask, Docker, QGIS, Pandas, NumPy  
@@ -40,7 +40,7 @@
 
 ---
 
-## 🧭 About Me
+##  About Me
 
 I enjoy designing systems that combine **AI models** with **real-world data pipelines** — bridging the gap between model research and deployable software.  
 Currently interning at **ITRI**, working on **LLM-based Verilog code generation accuracy improvement** and **cloud system integration**.  
@@ -49,9 +49,9 @@ I also serve as a **Python TA** at NTU, focusing on helping students build solid
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 📧 [Email](mailto:vincent12896@gmail.com)  
 ---
 
-⭐ *Explore my repositories below to see hands-on projects combining AI, system integration, and data-driven applications.*
+ *Explore my repositories below to see hands-on projects combining AI, system integration, and data-driven applications.*
