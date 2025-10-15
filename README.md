@@ -13,17 +13,17 @@
 
 ##  Featured Projects
 
-###  **Engineering & Systems**
+###  **Intern**
 | Project | Description |
 |----------|--------------|
 | [**ITRI-intern-RTLcoder**](https://github.com/gunter0128/ITRI-intern-RTLcoder) |  LLM-based Verilog code generation & evaluation system improving RTL accuracy via structured testing |
 | [**ITRI-intern-wrenAI**](https://github.com/gunter0128/ITRI-intern-wrenAI) |  FastAPI-based interactive frontend for Wren AI Cloud API supporting SQL generation & streaming responses |
 | [**ITRI-intern-QGIS**](https://github.com/gunter0128/ITRI-intern-QGIS) |  QGIS-based system for Taichung green space classification and area statistics visualization |
-| [**Distributed-Systems**](https://github.com/gunter0128/Distributed-Systems) |  Coursework focusing on concurrency, communication, and fault-tolerant system design using Python |
+
 
 ---
 
-###  **AI / Machine Learning**
+###  **Coursework Project**
 | Project | Description |
 |----------|--------------|
 | [**Deep-learning**](https://github.com/gunter0128/Deep-learning) |  Neural network architectures, model training, and generative models applications |
@@ -31,6 +31,7 @@
 | [**Data-Mining**](https://github.com/gunter0128/Data-Mining) |  Preprocessing, classification, and recommendation systems |
 | [**Statistics-ML**](https://github.com/gunter0128/statistics-ML) |  Statistical learning, model evaluation, and neural network interpretability |
 | [**Information-Retrieval**](https://github.com/gunter0128/Information-retrieval) |  Text mining, search engine design, and document representation |
+| [**Distributed-Systems**](https://github.com/gunter0128/Distributed-Systems) |  Coursework focusing on concurrency, communication, and fault-tolerant system design using Python |
 
 ---
 
