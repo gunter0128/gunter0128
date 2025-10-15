@@ -5,7 +5,7 @@
 
 🎓 Bachelor's Degree in Business Administration @ National Chung Cheng University 
 
-💡 Aspiring Software & AI Engineer with experience in full-stack development, data systems, and applied machine learning.  
+💡 Software & AI Engineer with experience in full-stack development, data systems, and applied machine learning.  
 
 🔧 Skilled in building scalable applications, intelligent data workflows, and practical AI/ML solutions.
 
